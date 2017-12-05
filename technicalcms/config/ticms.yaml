@@ -1,0 +1,12 @@
+---
+YamlDesc: TECHNICAL-CMS-YAML
+Theme: tinitiate-bs3-basic
+HomeURL: http://localhost
+RootDir: tinitiate
+GenerateTemplateFlag: false
+ThemeLocation: 
+StaticFolder: 
+StaticSiteDir: E:\Bitnami\wampstack\apache2\htdocs\tinitiate\python
+ProcessFolders: 
+    - E:\Bitnami\wampstack\apache2\htdocs\source\python
+---
